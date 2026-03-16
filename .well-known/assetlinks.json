@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.trackbarsc.twa",
+        "sha256_cert_fingerprints": ["27:30:74:B6:8A:F9:66:5C:46:7B:66:3B:40:D5:93:CD:60:DF:2C:7F:2F:7E:C4:42:D6:61:70:4D:A5:7E:6D:C5"]
+      }
+    }]
